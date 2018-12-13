@@ -1,4 +1,4 @@
-### Terraform two tier app deployment (LAMP)
+### Terraform two tier app deployment (LEMP)
 
 ## Description:
 This Terraform script will deploy a single region highly available web site with RDS, EC2 and VPC AWS. 
