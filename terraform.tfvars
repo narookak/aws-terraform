@@ -2,7 +2,7 @@
 ### AWS Account
 aws_credentials_file = "../aws/credentials"
 
-# Use Latest version of Amazon Linux2 Public AMI
+# Use Latest version of Ubuntu 18.04 LTS Public AMI
 web_ami = "ami-00035f41c82244dab"
 app_ami = "ami-00035f41c82244dab"
 bastion_ami = "ami-00035f41c82244dab"
